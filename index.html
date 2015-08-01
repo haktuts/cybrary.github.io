@@ -1,10 +1,3 @@
-<?php
-session_start();
-if($_GET['show_desktop_mode'] == 'true') {
-    $_SESSION['desktopmode'] = 'true';
-}
-?>
-
 ﻿<!DOCTYPE html>
 <script src="js/html5shiv.js"></script>
 <html lang="en" class="no-js">
@@ -15,10 +8,13 @@ if($_GET['show_desktop_mode'] == 'true') {
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
 		<script src="js/modernizr.custom.js"></script>
 
- <meta charset="utf-8">
+
         
-        <meta name="viewport" content="width=1024">
-        <a href="mywebsite.php?show_desktop_mode=true">I want desktop mode!</a>
+       <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        
+        <meta name="viewport" content="auto">
+        
 
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />

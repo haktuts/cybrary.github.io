@@ -1,3 +1,10 @@
+<?php
+session_start();
+if($_GET['show_desktop_mode'] == 'true') {
+    $_SESSION['desktopmode'] = 'true';
+}
+?>
+
 ﻿<!DOCTYPE html>
 <script src="js/html5shiv.js"></script>
 <html lang="en" class="no-js">
@@ -10,7 +17,8 @@
 
  <meta charset="utf-8">
         
-        <meta name="viewport" content="width=900">
+        <meta name="viewport" content="width=1024">
+        <a href="mywebsite.php?show_desktop_mode=true">I want desktop mode!</a>
 
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />

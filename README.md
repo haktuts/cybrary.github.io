@@ -1,29 +1,7 @@
-# FlipClock.js
+http://haktuts.com/Free-ethical-hacking-course-online/
 
-### Installation
+http://www.haktuts.in/2015/07/how-to-create-and-host-personal-php-website-on-github.html
 
-FlipClock.js can be installed in the following ways:
+http://haktuts.com/Linux
 
-#### Bower
-
-	bower install FlipClock
-
-#### Node (NPM)
-
-	npm install flipclock
-
-#### Download .zip
-
-[Download .ZIP](https://github.com/objectivehtml/FlipClock/releases)
-
----
-
-### Demo & Documentation
-
-Website and documentation at http://flipclockjs.com/
-
----
-
-### License
-
-Copyright (c) 2013 Objective HTML, LCC shared under MIT LICENSE
+https://goo.gl/JJ8yCJ
